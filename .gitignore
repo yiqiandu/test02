@@ -1,0 +1,6 @@
+#:注释
+# git的忽略文件
+# 设置package-lock.json为忽略文件
+package-lock.json
+test.html
+test2.html
